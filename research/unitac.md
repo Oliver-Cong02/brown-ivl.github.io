@@ -24,7 +24,7 @@ authors:
       link: https://cs.brown.edu/people/ssrinath/
 affiliations:
   - "<sup>1</sup>[Brown University]"
-journal: ""
+journal: "CVPR 2026 Sense of Space Workshop"
 redirect_from:
   - add redirect_path here
   - another path here
