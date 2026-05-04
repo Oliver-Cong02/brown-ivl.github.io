@@ -33,6 +33,8 @@ carousels:
 ### Updates
 
 - **_Feb-2026_** Three papers accepted to CVPR 2026. More details coming soon.
+
+- **_Jan-2026_** [Wanjia Fu](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/) received CRA Outstanding Undergraduate Research Awards Honorable Mention.
   
 - **_Jan-2026_** [SLoFT](#) accepted to ICRA 2026.
 
