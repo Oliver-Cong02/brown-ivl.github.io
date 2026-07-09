@@ -32,6 +32,8 @@ carousels:
 
 ### Updates
 
+- **_June-2026_** [UniTac](https://ivl.cs.brown.edu/research/unitac) received [Outstanding Paper Award](assets/images/awards/2026_CVPRW_UniTac.JPG) on the proceeding track at CVPR 2026 Workshop [Sense of Space](https://sense-of-space.github.io/accepted-papers.html): Multi-Sensory Modeling for Embodied Intelligence.
+
 - **_Feb-2026_** Three papers accepted to CVPR 2026. More details coming soon.
 
 - **_Jan-2026_** [Wanjia Fu](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/) received CRA Outstanding Undergraduate Research Awards Honorable Mention.
